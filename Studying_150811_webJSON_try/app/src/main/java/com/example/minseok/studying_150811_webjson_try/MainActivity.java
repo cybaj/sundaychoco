@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
         txtView = (TextView) findViewById(R.id.txtView);
 
         //asyncTask ����.
-        task.execute("http://10.0.2.2/studying/150811_android_json_php/appdata.php");
+        task.execute("http://54.64.160.105/appdata4.php");
 
     }
 
